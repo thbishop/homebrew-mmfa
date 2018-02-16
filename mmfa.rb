@@ -2,10 +2,10 @@ require 'formula'
 
 class Mmfa < Formula
   homepage 'https://github.com/thbishop/mmfa'
-  version '0.3.0'
+  version '0.3.1'
 
-  url 'https://github.com/thbishop/mmfa/releases/download/0.3.0/0.3.0_darwin_amd64.zip'
-  sha256 '0223c33989a133ac49603f477789d502ff517749ff69311a76eedc5104c46d95'
+  url 'https://github.com/thbishop/mmfa/releases/download/0.3.1/0.3.1_darwin_amd64.zip'
+  sha256 '3aeb85e073cdb889aab516f1893ed862af88442608bb77ccc65b43e3b27c2110'
 
   head 'https://github.com/thbishop/mmfa.git'
   depends_on :arch => :intel
